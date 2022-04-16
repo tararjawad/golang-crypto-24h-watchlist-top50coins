@@ -1,0 +1,13 @@
+{
+    "CmcAPIKey": "5403e741-a438-418d-83e7-fa5c4805b3c8",
+    "Tf": "1D",
+    "BroadcastNoduleAddr": "wss://broadcaster.targethit.com/ws",
+    "RestServerEndpoint": "/get_watchlist/",
+    "RestServerPort": ":8087",
+    "UpdateTimeout": 15,
+    "TopAmount": 30,
+    "QuoteAsset": "USD",
+    "QuoteAssetOr": "USDT",
+    "MarketTypePriority1": "SPOT",
+    "MarketTypePriority2": "FUTURE"
+}
