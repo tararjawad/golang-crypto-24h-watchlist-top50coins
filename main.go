@@ -476,8 +476,6 @@ func main() {
 		fmt.Println("config file parse error!")
 	}
 
-	go connectToBroadcastModule()
-
 	// get top coins list from cmc init
 	go getTopTickers()
 
